@@ -1,0 +1,21 @@
+
+body {
+	background-color: pink;
+}
+div {
+	display: flex;
+	border: #183bed solid 2px;
+}
+img {
+	width: 33.3%;
+}
+h1 {
+	text-align: center;
+	color: purple;
+}
+p {
+	text-align: center;
+}
+span {
+	width: 90px;
+}
